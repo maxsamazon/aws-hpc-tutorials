@@ -33,3 +33,11 @@ After an optional introduction and setup, you can walk through the following lab
 - Distributed ML explores how to leverage cloud HPC infrastructure to run data parallel training at scale.
 
 We recommend you take these labs in the order presented as some dependencies exists between them, but feel free to change the order based on your comfort level.
+
+
+AWS offer a range of HPC related services, with different feature sets. At present this workshop focuses on AWS ParallelCluster. To deploy AWS ParallelCluster you have two options:
+
+1. **AWS ParallelCluster UI** This is a Web UI that makes deploying clusters simple. We recommend this for first time users. Go to section [AWS ParallelCluster UI](02-deploy-pcm/_index.html) for this.
+2. **AWS ParallelCluster CLI** To deploy a cluster using the CLI, please follow section [AWS ParallelCluster CLI](03-parallel-cluster-cli/_index.html).
+
+For other AWS Workshops for HPC services, please follow the following links:

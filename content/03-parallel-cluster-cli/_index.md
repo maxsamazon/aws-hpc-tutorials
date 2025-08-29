@@ -1,9 +1,9 @@
 ---
-title: "ParallelCluster using CLI (optional)"
+title: "ParallelCluster using CLI"
 date: 2019-01-24T09:05:54Z
 weight: 30
 pre: "<b>III ⁃ </b>"
-tags: ["HPC", "Introduction", "EC2", "Optional"]
+tags: ["HPC", "Introduction", "EC2"]
 ---
 
 {{% notice info %}}This sectional is optional, you can either use the [ParallelCluster UI](02-deploy-pcm.html) or the [CLI](03-parallel-cluster-cli.html).
